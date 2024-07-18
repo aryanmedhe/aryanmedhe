@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aryanmedhe
-- 👀 I’m interested in Analytics and machine learning
-- 🌱 I’m currently learning data analytics
-- 💞️ I’m looking to collaborate on machine learning
+- 👀 I’m interested in Analytics and Arteficial Intelligence
+- 🌱 I’m currently learning Data Analytics
+- 💞️ I’m looking to collaborate on machine learning projects
 - 📫 How to reach me  aryanmedhe21@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact:  looking for fun
